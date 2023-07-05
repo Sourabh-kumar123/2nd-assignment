@@ -1,0 +1,121 @@
+ANSWER 1:
+there are two values of boolean :-
+1. True
+2. False
+
+we write like this
+a=True
+print(a)
+
+ANSWER 2:-
+three types of boolean operators are:-
+1.AND
+2.OR
+3.NOT
+which also comes in logical operators.
+
+ANSWER 3:- truth tables of boolean operators are:
+
+     AND  OR  NOT
+0 0   0   0    1 
+1 1   1   1    0  
+0 1   0   1    0
+1 0   0   1    0
+
+
+ANSWER 4:-
+(5 > 4) and (3 == 5)
+==False
+
+not (5 > 4)
+==False
+
+(5 > 4) or (3 == 5)
+==True
+
+not ((5 > 4) or (3 == 5))
+==False
+
+(True and True) and (True == False)
+==False
+
+(not False) or (not True)
+==True
+
+ANSWER 5:-
+less than = <
+greater than= >
+less than or equal to <=
+greater than or equal to >=
+equal to = ==
+not equal to = !=
+
+ANSWER 6:- assignment operator helps to make code short and perform calculation in a effcient way.
+a=5
+a+=5
+print(a)
+
+where as in equal to sign we follow:
+a=5
+a=a+5
+print(a)
+
+
+ANSWER 7:-
+his code from else part because spam value is 0:
+so it will print
+ham
+spam 
+spam
+
+
+
+ANSWER 8:-
+if spam ==1:
+   print("hello")
+elif spam ==2:
+   print("howdy")
+else:
+   print("greeting"!")
+
+ANSWER 9:-
+we will use break keyword .
+
+ANSWER 10:-
+break keyword in python stop the loop and comes out from it
+where as continue do not stop the loop it just pass that particular iteration.
+
+ANSWER 11:-
+range(10) :- it will take 0 as default starting point and go upto 9.
+range(0, 10):- there is two parameter inside thi bracket first one is telling about the starting point 
+and second one is telling ending point but 1 value less than ending point.
+range(0, 10, 1):- there are three parameter in this bracket first one is starting point from it start.
+second one is till which point it will iterate 1 value less than end point and 
+last one is telling ine one iteration how many gap it should take or step .
+
+ANSWER 12 :-
+
+for r in range(1,11):
+     print(r)
+
+a=0
+while(a<11):
+  print(a)
+  a+=1	
+
+
+ANSWER 13:-
+	def bacon():
+             print("spam")
+	bacon() :- this is how we call.
+
+	
+   			
+
+
+
+
+
+
+
+
